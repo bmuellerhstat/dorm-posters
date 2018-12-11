@@ -12,7 +12,7 @@ This becomes really important as you start to select your roommate for college. 
 ### Step 0: Setting up our workspace
 * Fork and clone this repository
 * Open `index.html` and preview it.
-* You'll notice that the site is just a mess of images on a grey and white screen. You'll notice several posters: Audrey Hepburn, Beyoncé, Michael Jordan, New York, Picasso, Andy Warhol, and Woody Allen. The goal is to arrange each poster neatly and add a snazzy frame.You're going to be responsible for arranging the posters nicely on the wall and framing them.
+* You'll notice that the site is just a mess of images on a grey and white screen. You'll notice several posters: Audrey Hepburn, Adele, Michael Jordan, New York, Picasso, Andy Warhol, and Woody Allen. The goal is to arrange each poster neatly and add a snazzy frame.You're going to be responsible for arranging the posters nicely on the wall and framing them.
 * You'll code your solution in `style.css`. Go ahead and open that file.
 * Now that you have `index.html`, `style.css`, and the **preview** of `index.html` open, drag `style.css` **right** and **down** like the image below:  
 
@@ -145,7 +145,7 @@ The result should look like this:
 ### Step 4: "Pop Culture Fanatic"
 
 <img src="https://s3.amazonaws.com/after-school-assets/michael-jordan-poster.jpg" align="right" width="100px" hspace="10">
-<img src="https://s3.amazonaws.com/after-school-assets/beyonce-poster.jpg" align="right" width="100px" hspace="10">
+<img src="https://i.imgur.com/k3tKiuK.jpg" align="right" width="100px" hspace="10">
 
 For these posters, we want to stack them on top of each other, center them, and add a unique border to each one.
 
@@ -157,12 +157,12 @@ First, we need to resize both images. Copy and paste the following code inside o
   height: 200px;
 }
 
-#beyonce {
+#adele {
   height: 200px;
 }
 ```
 As for the rest, well, you're on your own. But keep adding CSS until those images look like this: 
-<img src="http://i.imgur.com/W580Rct.png">
+<img src="https://i.imgur.com/tfXbtwp.png">
 
 ### All done?
 That means YOU are ready for college!  Here's a little HTML/CSS extension: add your OWN wall at the bottom with your own pictures.  Make sure they fit your personality!
